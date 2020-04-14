@@ -1,0 +1,11 @@
+https://www.slideshare.net/heikhama/basic-image-processing-techniques
+
+https://medium.com/@Adoriasoft/image-recognition-and-image-processing-techniques-fe3d35d58919
+
+https://www.researchgate.net/publication/328531943_Dynamic_Weights_Equations_for_Converting_Grayscale_Image_to_RGB_Image
+
+https://www.cs.auckland.ac.nz/courses/compsci373s1c/PatricesLectures/Gaussian%20Filtering_1up.pdf
+
+https://docs.opencv.org/2.4/doc/tutorials/imgproc/histograms/histogram_calculation/histogram_calculation.html
+
+https://towardsdatascience.com/automatic-license-plate-detection-recognition-using-deep-learning-624def07eaaf
